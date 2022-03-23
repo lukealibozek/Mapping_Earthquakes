@@ -11,7 +11,7 @@ The Purpose of this project was to design an interactive map displaying earthqua
 ![](resources/mapMain.png)
 
 ## Legend
-**Important Note**: To comply with deliverable concerning the mapping of "major earthquakes," the creative decision was made to add another color gradient representing magnitudes greater that 6.
+**Important Note**: To comply with the deliverable concerning the mapping of "major earthquakes," I decided to add another color gradient representing magnitudes greater that 6.
 
 ![](resources/legend.png)
 
